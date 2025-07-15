@@ -1,17 +1,33 @@
 # Excel-Portfolio
 
-## Monthly Expenses Tracker
-- Tools Used: Microsoft Excel
-- Skills: SUM, Conditional Formatting, Charts, Cell Referencing
+## Tool
+- Microsoft Excel
 
-### Project Description:
-A tracker that calculates the total monthly expenses, total yearly expenses of each category, overall yearly total expenses, and the total percentage of each category in a year.
+## Skills
+- Formulas & Functions
+- Data Cleaning
+- PivotTables & Charts
+- Data Visualization
+- PowerQuery
+- Data Management
+- Data Manipulation
+- Data Cleaning and Formatting
 
-
+## Projects
+- Monthly Expenses Tracker(./Monthly_Expenses_Tracker/README.md)
+- Timesheet(./Timesheet/README.md)
+*(More projects coming soon as I expand my current skills)*
 
 ## Timesheet
 - Tools Used: Microsoft Excel
 - Skills: SUM, Conditional Formatting, Cell & Sheet Referencing
 
-### Project Description:
-A time tracker that calculates the total logged hours an employee. It includes conditional formatting to highlight whether the employee met the required working hours or undertime. It also computes the total daily and weekly wage based on individual hourly rates.
+## Navigation
+Each project folder includes:
+- Excel Files
+- README with explanation
+- Screenshots of the file
+
+## About Me
+I’m currently self-studying to find opportunities in data-related jobs. If you’re a recruiter or hiring manager, I’d love the opportunity to connect!
+Email: galangchristianjay@gmail.com
