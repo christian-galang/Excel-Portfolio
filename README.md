@@ -30,4 +30,5 @@ Each project folder includes:
 
 ## About Me
 I’m currently self-studying to find opportunities in data-related jobs. If you’re a recruiter or hiring manager, I’d love the opportunity to connect!
+
 Email: galangchristianjay@gmail.com
