@@ -16,6 +16,7 @@
 ## Projects
 - Monthly Expenses Tracker(./Monthly_Expenses_Tracker/README.md)
 - Timesheet(./Timesheet/README.md)
+
 *(More projects coming soon as I expand my current skills)*
 
 ## Timesheet
